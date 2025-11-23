@@ -21,6 +21,6 @@ This project is a command-line based Daily Sales Manager built entirely in pure 
 5. Exit
 
 # Refrences:
-Python Official Documentation – Input and Output
-Python Data Structures – Lists and Dictionaries
-CRUD Concept Overview – GeeksforGeeks
+https://docs.python.org/3/tutorial/inputoutput.html
+https://docs.python.org/3/tutorial/datastructures.html
+https://www.geeksforgeeks.org/crud-operation-in-python/
