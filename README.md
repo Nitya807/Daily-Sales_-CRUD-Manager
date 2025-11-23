@@ -6,11 +6,23 @@ This project is a command-line based Daily Sales Manager built entirely in pure 
 
 # Key Features:
 >Create: Add new sales entries with product name, quantity, and price.
+
+
 >Read: View all recorded sales in a tabular format.
+
+
 >Update: Modify existing sales records by selecting their ID.
+
+
 >Delete: Remove sales entries by ID.
+
+
 >Data Storage: Uses Python lists and dictionaries to store sales data during runtime.
+
+
 >Validation: Ensures only valid numeric values for quantity and price (basic checks without exceptions).
+
+
 >No Imports: Fully self-contained, no external dependencies.
 
 # Example Menu:
@@ -22,5 +34,9 @@ This project is a command-line based Daily Sales Manager built entirely in pure 
 
 # Refrences:
 https://docs.python.org/3/tutorial/inputoutput.html
+
+
 https://docs.python.org/3/tutorial/datastructures.html
+
+
 https://www.geeksforgeeks.org/crud-operation-in-python/
